@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> </title>
+</head>
+	<body bgcolor="#D0AFFF">
+	<p> <h1> WIKIPEDIA SOBRE FORTNITE </h1> </p>
+	
+	<img src="imagenes/123.jpeg" height="200" width="500">
+	
+	<p> <strong> Fortnite </strong> es un videojuego del año 2017 desarrollado por la empresa <em> Epic Games </em>, lanzado como diferentes paquetes de software <br> 
+	que presentan diferentes modos de juego, pero que comparten el mismo motor de juego y mecánicas. <br>
+	Fue anunciado en los <em> Spike Video Game Awards </em> en 2011.
+	</p>
+	
+	</body>
+</html>

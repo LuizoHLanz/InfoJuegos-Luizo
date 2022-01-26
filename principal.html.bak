@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> </title>
+</head>
+	<body bgcolor="#D9C6ED">
+	<center> <h1> <strong> <u> REQUISITOS PARA JUGAR </u> </strong> </h1> </center>
+	
+	<p> <h2> <em> <u> <p name="Requisitos_Minecraft"> Requisitos para jugar Minecraft </p> </u> </em> </h2> </p>
+	
+	<p>
+	<center> <img src="imagenes/bloque.webp" align="right" width="200" height="200"> </center>
+	</p>
+	
+	<p> Se necesita tener un <strong> PC </strong> con un  <strong> SO </strong> <em> Windows 7 </em> o superior potente y bueno para poder jugar. </p>
+	<p>	Se requiere tener este tipo de componentes en tu <strong> PC </strong> : </p>
+		<ul>
+			<li> <strong> CPU: </strong> Intel Pentium D | AMD Ahtlon 64 2,6 GHz. </li>
+			<li> <strong> GPU: </strong> Intel HD Graphics | NVIDIA GeForce 9600 GT | AMD Radeon HD 2400. </li>
+			<li> <strong> Memoria RAM: </strong> 2 GB. </li>
+			<li> <strong> Sistema Operativo: </strong> Windows 7 en adelante. </li>
+			<li> <strong> Espacio en disco: </strong> 200 MB. </li>
+			<li> <strong> Versión de Java: </strong> Java 6 Release 45. </li>
+		</ul>
+		
+	
+	<p> <h2> <em> <u> <a name="Requisitos Fortnite"> Requisitos para jugar Fortnite </a> </u> </em> </h2> </p>
+	
+	<p>
+	<img src="imagenes/for.jfif" align="right" width="200" height="100">
+	<img src="imagenes/fortnite.jpg" align="right" width="200" height="100">
+	</p>
+	
+	<p> Fortnite está diseñado para funcionar bien en una gran variedad de <em> hardware </em> para <strong> PC </strong>, de modo que la mayor cantidad posible de jugadores
+	pueda subir al autobús de combate y jugar. <br>
+	Para disfrutar de <u> Fortnite </u> de la mejor manera en <strong> PC </strong> , recomendamos las siguientes especificaciones del sistema.
+	</p>
+		
+		<p> <u> Especificaciones del Sistema </u> </p>
+		
+		<ol>
+			<li> <strong> Tarjeta gráfica: </strong> Nvidia GTX 960, AMD R9 280 o DX11 GPU equivalente </li>
+			<li> <strong> Memoria gráfica: </strong> 2 GB de VRAM </li>
+			<li> <strong> Procesador: </strong> Core i5-7300U de 3.5 GHz, AMD Ryzen 3 3300U o equivalente </li>
+			<li> <strong> Memoria: </strong> 8 GB de RAM o superior </li>
+			<li> <strong> SO: </strong> Windows 10 de 64 bits </li>
+		</ol>
+		
+	</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> </title>
+</head>
+	<body bgcolor="#894DC9">
+	
+	<p> <h3> <u> <a href="formulario.html" target="principal"> REGISTRARSE </u> </h3> </p>
+	
+	<p> <h2> <u> Minecraft <br> Info </u> </h2> </p>
+	
+	<img src="imagenes/creeper.webp" width="100"  height="100">
+	
+		<ul type="square">
+			<li> <a href="https://www.hobbyconsolas.com/guias-trucos/minecraft/minecraft-guia-basica-principiantes-como-empezar-jugar-88340" target="principal"> Guía de juego </a> </li>
+			<li> <a href="principal.html#Requisitos_Minecraft" target="principal"> Requisitos Minecraft </a> </li>
+			<li> <a href="adicional.html" target="principal"> Wikipedia </a> </li>
+		</ul>
+		<hr>
+		
+	<p> <h2> <u> Fortnite <br> Info </u> </h2> </p>
+	
+	<img src="imagenes/fortnite.jpg" width="100" height="50">
+	
+		<ul type="square">
+			<li> <a href="https://www.vidaextra.com/guias-y-trucos/guia-de-fortnite-battle-royale-para-principiantes" target="principal"> Guía de juego </a> </li>
+			<li> <a href="principal.html#Requisitos_Fortnite" target="principal"> Requisitos Fortnite </a> </li>
+			<li> <a href="adicional1.html" target="principal"> Wikipedia </a> </li>
+		</ul>
+	
+	</body>
+
+</html> 
